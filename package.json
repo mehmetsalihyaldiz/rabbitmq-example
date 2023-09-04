@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mehmetsalihyaldiz/rabbitmq-example.git",
+  "author": "Mehmet Salih YALDIZ <mehmetsalihyaldiz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
